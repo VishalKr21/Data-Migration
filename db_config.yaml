@@ -1,0 +1,13 @@
+source_db:
+  host: localhost
+  user: source_user
+  password: source_password
+  database: source_db
+  port: 3306
+
+target_db:
+  host: localhost
+  user: target_user
+  password: target_password
+  database: target_db
+  port: 5432
